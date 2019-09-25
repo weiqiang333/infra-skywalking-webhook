@@ -77,7 +77,7 @@ Item values:
 故障修复:
 */
 func createContent(message []message) (string, string) {
-	grade := "P1"
+	grade := "P3"
 	description	:=	""
 
 	var alertname bytes.Buffer
