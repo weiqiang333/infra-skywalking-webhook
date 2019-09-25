@@ -16,8 +16,8 @@ bash build/build.sh
 ```
 
 # Demonstration
-![](https://github.com/weiqiang333/infra-skywalking-webhook/.static/skywalking-UI-alarm.png)
+<img src=".static/skywalking-UI-alarm.png"/>
 <p align="center">-SkyWalking alarm UI-</p>
 
-![](https://github.com/weiqiang333/infra-skywalking-webhook/.static/skywalking-dingding-notify.png)
+<img src=".static/skywalking-dingding-notify.png"/>
 <p align="center">-dingtalk message body-</p>
